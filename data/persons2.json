@@ -1,0 +1,23 @@
+[
+  { 
+    "name": "Tim Madison",
+    "email": "tcoder.com",
+    "phone": "800-456-1234",
+    "birthdate": "04/01/2020",
+    "id": 4
+  },
+  { 
+    "name": "Thomas Cox",
+    "email": "cox@person.com",
+    "phone": "800-123-4567",
+    "birthdate": "01/02/2001",
+    "id": 5
+  },
+  { 
+    "name": "Kimberly Lex",
+    "email": "george@scripter.com",
+    "phone": "800-876-3090",
+    "birthdate": "12/01/2010",
+    "id": 6
+  }
+]
