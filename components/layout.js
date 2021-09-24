@@ -10,7 +10,9 @@ export default function Layout( { children, home } ) {
       <header>
         <nav>
         <h1>
-          Week 5: Assignment 6: Final Basic Full-Stack App
+        <Link href="/">
+         <a> Week 5: Assignment 6: Final Basic Full-Stack App</a>
+        </Link>
         </h1>
         </nav>
       </header>

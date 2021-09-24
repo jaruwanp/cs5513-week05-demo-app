@@ -14,7 +14,9 @@ export async function getStaticProps() {
 export default function Home({ allData }) {
   return (
         <Layout home>
-        <h2>List of Names</h2>
+        <h2>List of People</h2>
+        <p>Use dynamic routing to create a page component to display complete details about individual persons that retrieves data from at least two JSON files to render links to other related persons.
+        </p>
         <div className="list-group">
           {allData ?
             allData.map(({ id, name }) => (
