@@ -1,5 +1,4 @@
 // __tests__/index.test.jsx
-
 /**
  * @jest-environment jsdom
  */
